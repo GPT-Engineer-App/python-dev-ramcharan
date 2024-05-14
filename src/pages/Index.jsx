@@ -6,7 +6,7 @@ const Index = () => {
     <Container centerContent maxW="container.md" height="100vh" display="flex" flexDirection="column" justifyContent="center" alignItems="center">
       <VStack spacing={6}>
         <Box boxSize="150px">
-          <Image borderRadius="full" src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxwb3J0cmFpdCUyMG9mJTIwYSUyMHNvZnR3YXJlJTIwZGV2ZWxvcGVyfGVufDB8fHx8MTcxNTY5MzQzOXww&ixlib=rb-4.0.3&q=80&w=1080" alt="Ramcharan Reddy" />
+          <Image borderRadius="full" boxSize="150px" src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxwb3J0cmFpdCUyMG9mJTIwYSUyMHNvZnR3YXJlJTIwZGV2ZWxvcGVyfGVufDB8fHx8MTcxNTY5MzQzOXww&ixlib=rb-4.0.3&q=80&w=1080" alt="Ramcharan Reddy" />
         </Box>
         <Heading as="h1" size="xl">
           Ramcharan Reddy
